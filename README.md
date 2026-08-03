@@ -29,7 +29,7 @@ Prohibition of rigid constructions (`bukan hanya X, tetapi juga Y`), literal AI 
 Eliminates smooth, uniform AI sentence lengths. Mixes short, punchy 3–8 word sentences with medium explanatory ones to mirror genuine human rhythm.
 
 ### 4. Concrete Experience Anchor & Read-Aloud Test
-Requires grounding claims in real context, concrete numbers, or verifiable outcomes. Includes a mandatory read-aloud test—if a sentence feels awkward to speak, it gets rewritten.
+Requires grounding claims in real context, concrete numbers, or verifiable outcomes. Includes a mandatory read-aloud test and if a sentence feels awkward to speak, it gets rewritten.
 
 ---
 
